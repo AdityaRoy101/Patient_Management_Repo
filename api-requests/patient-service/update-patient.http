@@ -1,0 +1,12 @@
+### UPDATE patient with the given id
+PUT http://127.0.0.1:4000/patients/20e94a2d-7725-46b8-83f7-64641ca153d9
+Content-Type: application/json
+
+{
+  "name": "Aditya234565",
+  "email": "adi323@gmail.com",
+  "address": "aa",
+  "dateOfBirth": "2002-01-02"
+}
+
+###

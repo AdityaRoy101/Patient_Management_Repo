@@ -1,0 +1,4 @@
+### DELETE request to remove patient
+DELETE http://127.0.0.1:4000/patients/3651b6a5-8b28-4b0b-98d6-8407b90cfd08
+
+###
