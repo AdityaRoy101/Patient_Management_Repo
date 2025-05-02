@@ -3,8 +3,8 @@ POST http://127.0.0.1:4000/patients
 Content-Type: application/json
 
 {
-  "name": "Aditya_billing_service",
-  "email": "adi_billing_service@gmail.com",
+  "name": "Aditya_billing_service_test_2",
+  "email": "adi_billing_service_test_2@gmail.com",
   "address": "aa",
   "dateOfBirth": "2002-01-02",
   "registeredDate": "2002-01-02"
